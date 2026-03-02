@@ -1,0 +1,5 @@
+{
+  "name": "Razer RMA Sentinel",
+  "description": "Advanced analytics dashboard for monitoring Razer product RMA trends, identifying defect patterns, and evaluating the effectiveness of product improvements.",
+  "requestFramePermissions": []
+}
