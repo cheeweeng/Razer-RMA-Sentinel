@@ -1,14 +1,14 @@
 {
-  "name": "react-example",
+  "name": "razer-rma-sentinel",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "vite build",
-    "start": "node server.ts",
+    "build": "vite build && tsc",
+    "start": "node dist/server.js",
+    "gcp-build": "vite build && tsc",
     "preview": "vite preview",
-    "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
@@ -35,12 +35,6 @@
     "autoprefixer": "^10.4.21",
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
-  },
-  "scripts": {
-  "build": "tsc",
-  "start": "node dist/server.js",
-  "dev": "ts-node server.ts"
-}
+    "typescript": "~5.8.2"
+  }
 }
