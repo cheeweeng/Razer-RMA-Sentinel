@@ -38,7 +38,8 @@ A "Mission Control" view for real-time data ingestion:
 
 ---
 
-🗺 Future Roadmap
+### 🗺 Future Roadmap
+
 The next phase of development focuses on moving from viewing data to conversing with it.
 
 * Natural Language RMA Queries: Instead of filtering charts, engineers can ask: "What were the top 3 causes of mouse sensor failures in Q3?"
