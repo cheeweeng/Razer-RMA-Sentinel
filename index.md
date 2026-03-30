@@ -1,3 +1,5 @@
+# Razer RMA Sentinel 🐍
+
 **Razer RMA Sentinel** is a high-performance analytics dashboard and AI-powered prototype designed for Quality Assurance (QA) and Product Engineering teams. Built using **Google AI Studio**, this application provides a comprehensive suite of tools to monitor defect trends, analyze Return Merchandise Authorization (RMA) data, and measure the real-world impact of product improvements.
 
 ## 🚀 Key Features
@@ -41,6 +43,6 @@ The next phase of development focuses on moving from viewing data to conversing 
   
 ---
 ## 🛠 Development Notes
-* **For setup and installation - clone the repository
+* **For setup and installation - clone the [repository](https://github.com/cheeweeng/Razer-RMA-Sentinel)
 * **Original Prototype:** Vibe-coded and built in Google AI Studio
 * **Status:** Active Development / MVP Phase
