@@ -11,6 +11,9 @@ A high-level overview of quality metrics across Razer product lines.
 * **Quality Score:** At-a-glance monitoring based on return rates.
 * **Defect Trend Analysis:** Interactive line charts to identify seasonal spikes or batch-specific issues.
 * **Improvement Effectiveness Tracking:** A specialized "Product Detail" view that overlays firmware updates or component changes onto RMA volume charts to visualize the ROI of engineering fixes.
+<img width="800" height="377" alt="Image" src="https://github.com/user-attachments/assets/77f9b8ca-b328-4ffc-aaeb-0c79c608048d" />
+
+<img width="800" height="260" alt="Image" src="https://github.com/user-attachments/assets/8da6ec66-602d-463c-a634-d09231664e3f" />  
 
 ### 2. Trends Tab (Market Quality Analysis)
 
@@ -18,6 +21,7 @@ Strategic analysis tools for long-term product health:
 
 * **RMA Share by Category:** Compare performance across Mice, Keyboards, and Audio.
 * **Defect Velocity Tracker:** A real-time monitor that flags rapid growth in specific defect types (e.g., "Battery Swelling") with red trend indicators for rapid response.
+<img width="800" height="380" alt="Image" src="https://github.com/user-attachments/assets/1912ec49-b4d6-4d61-bf6e-e10dd2db5ebb" />
 
 ### 3. Live Feed Tab (Global Sentinel Stream)
 
@@ -43,6 +47,6 @@ The next phase of development focuses on moving from viewing data to conversing 
   
 ---
 ## 🛠 Development Notes
-* **For setup and installation - clone the [repository](https://github.com/cheeweeng/Razer-RMA-Sentinel)
+* **For setup and installation** - clone the [repository](https://github.com/cheeweeng/Razer-RMA-Sentinel)
 * **Original Prototype:** Vibe-coded and built in Google AI Studio
 * **Status:** Active Development / MVP Phase
